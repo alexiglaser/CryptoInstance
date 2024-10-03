@@ -5,11 +5,6 @@
 # Data files, pre-calculated models
 *.csv
 
-# Exclude the renv library, cache, and staging folders
-/renv/library/
-/renv/cache/
-/renv/staging/
-
 # Python environment files
 python_env/
 
